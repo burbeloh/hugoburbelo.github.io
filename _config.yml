@@ -12,7 +12,7 @@ description: Aspiring engineer, writer, and rower.
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
-theme: white-paper
+theme: jekyll-theme-modernist
 
 #
 # Flags below are optional
