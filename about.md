@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently, I'm a junior at Walt Whitman High School in Bethesda, Maryland. I'm really interested in using Artificial Intelligence and Machine Learning to improve the everyday lives of consumers.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hugoburbelo@gmail.com](mailto:hugoburbelo@gmail.com)
